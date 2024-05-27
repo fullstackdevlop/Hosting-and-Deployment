@@ -1,4 +1,4 @@
-# Deploy Next.js Application with Apache Web Server
+# Deploy NodeJS Application with Apache Web Server
 
 Next.js is a popular React framework for building server-rendered React applications with ease.
 

@@ -14,6 +14,22 @@
 
 - MERN Deployment with Nginx
 
+- MySQL Installation & Configuration on Server
+
+# DevOps (Cloud Computing)
+
+- AWS
+
+- Cloudflare
+
+- Jenkins
+
+- Docker
+
+- Kubernetes
+
+- Git
+
 # Hosting
 
 - Introduction to Hosting
@@ -53,17 +69,3 @@
 - Fix Remote Host Identification has Changed Error Fixed
 
 - Setup Cron Job
-
-# Cloud Computing
-
-- Git
-
-- AWS
-
-- Cloudflare
-
-- Jenkin
-
-- Docker
-
-- Kubernetes
